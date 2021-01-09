@@ -10,7 +10,7 @@ Programación de videojuegos 2D con pygame de python y material bibliográfico s
 - Destruccion de elementos del juego
 - Disparos
 - Creación de enemigos 
-- Creacion de plataformas
+- Creación de plataformas
 - Sprites
 - Libros sobre programación con pygame
 - Etc
