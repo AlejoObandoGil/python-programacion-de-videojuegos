@@ -1,0 +1,22 @@
+[info]
+imagen: mapas.png
+mapa:.........##...
+     ....###..###..
+     ....#......#..
+     ....#......#..
+     ......$$......
+
+[.]
+tipo:vacio
+fil:0
+col:0
+
+[#]
+tipo:muro
+fil:3
+col:22
+
+[$]
+tipo:agua
+fil:3
+col:22
